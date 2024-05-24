@@ -2,3 +2,5 @@ node -v
 npx create-react-app <project name>
 cd <project name>
 npm start
+ctrl c
+localhost:3000
