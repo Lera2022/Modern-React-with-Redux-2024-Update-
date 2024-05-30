@@ -22,11 +22,26 @@ function App() {
   // const message = null;
   // const message = undefined;
   // const message = [1, 2, 3];
-  const message = {};
-
+  // const message = {};
+  // const date = new Date();
+  // const time = date.toLocaleTimeString();
+  // const name = 'Samantha';
+  // const age = 23;
   // return <h1>Hi there!</h1>;
   // return <h1>{message}</h1>;
-  return <h1>{new Date().toLocaleTimeString()}</h1>;  // zip 004
+  // return <h1>{time}</h1>;
+  // return <h1>{new Date().toLocaleTimeString()}</h1>;  // zip 004
+  // return (
+  // <h1>
+  //   Hi, my name is {name} and my age is {age}
+  // </h1>
+  // );
+  // const inputType = 'number';
+  // const minValue = 5;
+  // return <input type={inputType} min={minValue}/>;
+  // return <input style={{border: '3px solid black'}} type="number" min={5}/>;
+
+  return <textarea autoFocus={true}/>
 }
 
 // 5) Show the component on the screen
