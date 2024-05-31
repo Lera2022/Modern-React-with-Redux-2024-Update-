@@ -40,8 +40,12 @@ function App() {
   // const minValue = 5;
   // return <input type={inputType} min={minValue}/>;
   // return <input style={{border: '3px solid black'}} type="number" min={5}/>;
-
-  return <textarea autoFocus={true}/>
+  // return <textarea autoFocus={true}/>
+  // return <input maxLength={5}/>
+  // return <input spellCheck/>
+  // return <input spellCheck={false}/>
+  // return <input style={{border: '1px solid blue'}}/>
+  return <input placeholder='hi there'/>
 }
 
 // 5) Show the component on the screen
