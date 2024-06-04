@@ -4,3 +4,4 @@ cd <project name>
 npm start
 ctrl c
 localhost:3000
+cd ..
