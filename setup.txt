@@ -6,3 +6,4 @@ ctrl c
 localhost:3000
 cd ..
 npm install bulma
+npm install axios
