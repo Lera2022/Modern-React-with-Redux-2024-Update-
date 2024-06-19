@@ -28,7 +28,7 @@ function BookShow({ book, onDelete, onEdit }) {
             {/* {book.title} */}
             <img
                 alt="books"
-                src="https://placebeard.it/300/200"
+                src="https://placebeard.it/300/200/notag"
                 // src={`https://picsum.photos/seed/${book.id}/300/200`}
             />
             <div>{content}</div>

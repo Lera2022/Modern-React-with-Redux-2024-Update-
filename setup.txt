@@ -7,3 +7,7 @@ localhost:3000
 cd ..
 npm install bulma
 npm install axios
+npm install json-server@0
+"server": "json-server -p 3001 --watch db.json",    // package.json
+npm run server
+// api.http

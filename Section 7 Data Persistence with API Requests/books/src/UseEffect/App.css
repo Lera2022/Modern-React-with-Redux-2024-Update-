@@ -1,0 +1,29 @@
+* {
+    font-size: 28px;
+  }
+  
+  .app {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .app > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .app > div > div {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    font-size: 50px;
+    margin: 20px
+  }
+  
+  .divide {
+    height: 300px;
+    border-left: 1px solid gray;
+  }
