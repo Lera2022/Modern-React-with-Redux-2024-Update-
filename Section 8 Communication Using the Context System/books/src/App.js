@@ -18,7 +18,7 @@ function App() {
 
     useEffect(() => {
         fetchBooks();
-    }, []);
+    }, [fetchBooks]);
 
     // const editBookById = async (id, newTitle) => {
     //     const response = await axios.put(`http://localhost:3001/books/${id}`, {
