@@ -11,3 +11,7 @@ npm install json-server@0
 "server": "json-server -p 3001 --watch db.json",    // package.json
 npm run server
 // api.http
+npm install prop-types
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install classnames
