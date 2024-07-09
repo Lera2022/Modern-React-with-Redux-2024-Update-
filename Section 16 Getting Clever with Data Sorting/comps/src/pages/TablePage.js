@@ -24,6 +24,8 @@ function TablePage() {
       render: (fruit) => fruit.score,
       // header: () => <th className='bg-red-500'>Score</th>,
       sortValue: (fruit) => fruit.score,
+      // INSIDE SORTABLETABLE
+      // header: () => <th onClick={DOSORT()}>Score</th>
     },
     {
       label: "Score Squared",
