@@ -18,3 +18,4 @@ npm install classnames
 npm install tailwind-merge  // import { twMerge } from 'tailwind-merge';
 npm install react-icons --save  // https://react-icons.github.io/react-icons/
 npm install --save-exact react-icons@4.6.0
+npm install immer
