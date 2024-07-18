@@ -21,3 +21,6 @@ npm install --save-exact react-icons@4.6.0
 npm install immer
 npm install @reduxjs/toolkit
 npm install react-redux
+npm install --save-exact @faker-js/faker@7.6.0 react-icons@4.6.0
+
+npm install --save-exact @faker-js/faker@7.6.0 react-icons@4.6.0 @reduxjs/toolkit axios classnames json-server react-redux
